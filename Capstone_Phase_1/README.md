@@ -131,7 +131,7 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-- [EDA and Baseline Model Notebook](ADD_NOTEBOOK_LINK_HERE)
+- [EDA and Baseline Model Notebook](https://github.com/snipe-ds/DS_Projects/blob/main/Capstone_Phase_1/2026_Capstone_Orb_Recommender_System.ipynb)
 
 ---
 
