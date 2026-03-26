@@ -5,7 +5,7 @@ John Eckhardt
 
 ---
 
-#### Executive summary
+#### Executive Summary
 
 Business Problem
 
@@ -13,6 +13,15 @@ Discord’s Orb reward ecosystem contains hundreds of redeemable items, but rede
 
 The objective of this analysis is to evaluate whether recommendation models can improve the relevance of reward suggestions and increase redemption engagement.
 
+Potential Business Impact
+If deployed within the Orb reward system, improved recommendations could:
+• Increase redemption conversion rate
+• Increase total Orb sink volume
+• Improve reward discovery
+• Improve long-term engagement with reward campaigns
+Even a 1–2% improvement in redemption rate could materially increase reward engagement across millions of users.
+
+Results Summary
 Four models were evaluated using a leave-last-interaction-out framework and the **HitRate@3** evaluation metric:
 
 Model | HitRate@3
