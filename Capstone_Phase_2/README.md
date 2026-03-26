@@ -1,4 +1,4 @@
-### Project Title: Orb Redemption Recommender System
+### Project Title: Reward Marketplace Optimization- Predicting Orb Redemption Behavior
 
 **Author**  
 John Eckhardt  
@@ -7,9 +7,11 @@ John Eckhardt
 
 #### Executive summary
 
-This project analyzes Discord’s Orb redemption ecosystem and develops recommendation models to predict the next SKU a user is likely to redeem.
+Business Problem
 
-Using over 6 million historical redemption events, I conducted exploratory data analysis (EDA) to understand user redemption behavior and SKU popularity concentration. A global popularity recommender was first implemented as a baseline benchmark. Additional models were then developed to evaluate whether personalization approaches could improve recommendation accuracy.
+Discord’s Orb reward ecosystem contains hundreds of redeemable items, but redemption activity is highly concentrated among a small number of SKUs. This limits discovery of new items and reduces the effectiveness of reward incentives.
+
+The objective of this analysis is to evaluate whether recommendation models can improve the relevance of reward suggestions and increase redemption engagement.
 
 Four models were evaluated using a leave-last-interaction-out framework and the **HitRate@3** evaluation metric:
 
