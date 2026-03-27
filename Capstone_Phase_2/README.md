@@ -16,10 +16,10 @@ The objective of this analysis is to evaluate whether recommendation models can 
 Potential Business Impact
 
 If deployed within the Orb reward system, improved recommendations could:
-• Increase redemption conversion rate
-• Increase total Orb sink volume
-• Improve reward discovery
-• Improve long-term engagement with reward campaigns
+- Increase redemption conversion rate
+- Increase total Orb sink volume
+- Improve reward discovery
+- Improve long-term engagement with reward campaigns
 Even a 1–2% improvement in redemption rate could materially increase reward engagement across millions of users.
 
 Results Summary
@@ -181,6 +181,8 @@ Model performance was evaluated using **HitRate@3**, which measures whether the 
 - The segmented recommender performed closest to the baseline, applying different recommendation strategies depending on user behavior patterns.
 
 These findings demonstrate that marketplace concentration strongly favors popularity-based recommendations, and that future personalization improvements will require richer behavioral signals or expanded data sources.
+
+---
 
 #### Next steps  
 
